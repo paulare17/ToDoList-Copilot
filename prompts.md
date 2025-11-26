@@ -5,3 +5,9 @@
 2. ok, doncs crea-ho el projecte mencionat amb HTML, css, Js i la gestió del local storage.
 
 3. crea l'arxiu prompts.md amb tots els prompts que he introduït en aquesta conversa
+
+4. aporta una mica de caràcter a la web: afegeix aquesta paleta de colors: #ff00fe, #0000fe, #01ffff,#00ff01, #ffff01, #fe0000. són colors neons
+
+5. fes-ho directament, substitueix els colors que has proposat pels que t'he aportat (per exemple, el color verd suggerit, que sigui substituït pel meu verd)
+
+6. actualitza el document de prompts
